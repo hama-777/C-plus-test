@@ -8,7 +8,7 @@ class Rocket         //改良版ロケット
     int sokudo;      //現在の速度
 public:
     Rocket(int x);   //コンストラクタ
-    void kasoku();   //加速を表す関数
+    void kasoku();   //加速を表す関数fdsfsd
 };
 
 //コンストラクタの定義
